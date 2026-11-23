@@ -1,0 +1,23 @@
+external_id,tran_date,subsidiary,currency,account,account_name,debit,credit,line_memo,je_purpose,reversal_date,approval_status
+AP-RECLASS-202610-006,2026-10-31,Summit Outdoor US,USD,2000,Accounts Payable,12500.0,0.0,Reclass JE-1188: Accrue Q3 audit fees - Lindgren CPAs (fictional),Reclass manual accrual out of AP control,,Pending Approval
+AP-RECLASS-202610-006,2026-10-31,Summit Outdoor US,USD,2100,Accrued Liabilities,0.0,12500.0,Reclass JE-1188,Reclass manual accrual out of AP control,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),0.0,25.0,OUTGOING WIRE FEE (BK5096),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,6900,Bank Fees,25.0,0.0,OUTGOING WIRE FEE (BK5096),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),0.0,25.0,OUTGOING WIRE FEE (BK5097),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,6900,Bank Fees,25.0,0.0,OUTGOING WIRE FEE (BK5097),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),0.0,45.0,MONTHLY SERVICE CHARGE (BK5095),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-001,2026-10-31,Summit Outdoor US,USD,6900,Bank Fees,45.0,0.0,MONTHLY SERVICE CHARGE (BK5095),Bank fee not recorded,,Pending Approval
+BANK-ADJ-202610-002,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),0.0,3275.5,RETURNED ITEM NSF - TRAILHEAD SUPPLY (BK5099),NSF / returned customer check,,Pending Approval
+BANK-ADJ-202610-002,2026-10-31,Summit Outdoor US,USD,1200,Accounts Receivable,3275.5,0.0,RETURNED ITEM NSF - TRAILHEAD SUPPLY (BK5099),NSF / returned customer check,,Pending Approval
+BANK-ADJ-202610-003,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),18.37,0.0,INTEREST PAID (BK5098),Interest not recorded,,Pending Approval
+BANK-ADJ-202610-003,2026-10-31,Summit Outdoor US,USD,7100,Interest Income,0.0,18.37,INTEREST PAID (BK5098),Interest not recorded,,Pending Approval
+BANK-DUP-202610-005,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),6412.88,0.0,Reverse duplicate JE-UT-1017A (GL1107),Reverse duplicate posting,,Pending Approval
+BANK-DUP-202610-005,2026-10-31,Summit Outdoor US,USD,6600,Utilities,0.0,6412.88,Reverse duplicate JE-UT-1017A,Reverse duplicate posting,,Pending Approval
+BANK-ERR-202610-004,2026-10-31,Summit Outdoor US,USD,1010,Cash - Operating (First National),0.0,1800.0,"Correct RCPT-7301: book 15,320.00 vs bank 13,520.00",Correct amount variance,,Pending Approval
+BANK-ERR-202610-004,2026-10-31,Summit Outdoor US,USD,1200,Accounts Receivable,1800.0,0.0,Correct RCPT-7301,Correct amount variance,,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,6100,Travel - Airfare & Ground,1487.06,0.0,Card spend not on approved report (7 txns),Accrue unreported corporate card spend,2026-11-01,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,6200,Meals & Entertainment,733.29,0.0,Card spend not on approved report (9 txns),Accrue unreported corporate card spend,2026-11-01,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,6300,Software & Subscriptions,172.98,0.0,Card spend not on approved report (2 txns),Accrue unreported corporate card spend,2026-11-01,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,6400,Office Supplies,978.1,0.0,Card spend not on approved report (5 txns),Accrue unreported corporate card spend,2026-11-01,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,6500,Travel - Lodging,3081.2,0.0,Card spend not on approved report (8 txns),Accrue unreported corporate card spend,2026-11-01,Pending Approval
+CARD-ACCR-202610-007,2026-10-31,Summit Outdoor US,USD,2100,Accrued Liabilities,0.0,6452.63,Accrued corporate card liability - auto-reverse,Accrue unreported corporate card spend,2026-11-01,Pending Approval

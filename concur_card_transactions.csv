@@ -1,0 +1,145 @@
+card_txn_id,employee,card_last4,txn_date,posted_date,merchant,expense_category,amount,expense_report_id,report_status,receipt_attached
+CC9142,R. Okafor,****4417,2026-09-09,2026-09-10,Hilton,Lodging,449.6,,Not Submitted,False
+CC9141,R. Okafor,****4417,2026-09-20,2026-09-21,Hilton,Lodging,412.6,,Not Submitted,False
+CC9059,P. Chen,****9850,2026-09-26,2026-09-28,Staples,Office Supplies,86.55,,Not Submitted,True
+CC9016,S. Patel,****6582,2026-09-26,2026-09-27,United Airlines,Airfare,449.81,ER417,Approved,False
+CC9104,D. Kim,****3352,2026-09-27,2026-09-29,Airport Grill,Meals,91.42,ER401,Approved,True
+CC9052,R. Okafor,****4626,2026-09-27,2026-09-28,Hertz,Ground Transport,61.47,,Not Submitted,False
+CC9025,R. Okafor,****1659,2026-09-27,2026-09-28,Airport Grill,Meals,139.94,ER434,Approved,True
+CC9001,R. Okafor,****4673,2026-09-27,2026-09-28,Delta,Airfare,532.04,ER403,Approved,True
+CC9101,D. Kim,****3273,2026-09-28,2026-09-30,Lyft,Ground Transport,36.52,ER440,Approved,True
+CC9041,R. Okafor,****7141,2026-09-28,2026-09-30,Staples,Office Supplies,97.85,ER416,Approved,True
+CC9086,D. Kim,****4084,2026-09-28,2026-09-30,Airport Grill,Meals,67.36,ER433,Approved,True
+CC9109,P. Chen,****1686,2026-09-28,2026-09-30,Amazon Business,Office Supplies,90.43,ER433,Approved,True
+CC9005,R. Okafor,****2129,2026-09-28,2026-09-30,Starbucks,Meals,53.83,ER455,Approved,True
+CC9103,L. Novak,****8489,2026-09-29,2026-09-30,Uber,Ground Transport,32.88,ER454,Approved,True
+CC9134,A. Romero,****8710,2026-09-29,2026-10-01,Hyatt,Lodging,250.03,ER401,Approved,True
+CC9046,A. Romero,****5689,2026-09-29,2026-09-30,Hertz,Ground Transport,83.3,ER452,Approved,True
+CC9038,R. Okafor,****7512,2026-09-30,2026-10-01,Amazon Business,Office Supplies,132.68,,Not Submitted,False
+CC9107,D. Kim,****2698,2026-09-30,2026-10-02,Marriott,Lodging,270.34,ER403,Approved,True
+CC9017,D. Kim,****1878,2026-09-30,2026-10-01,Marriott,Lodging,288.23,ER452,Approved,True
+CC9073,A. Romero,****1815,2026-10-01,2026-10-02,Amazon Business,Office Supplies,232.0,ER429,Approved,True
+CC9067,D. Kim,****7105,2026-10-01,2026-10-02,Delta,Airfare,223.82,ER404,Approved,True
+CC9099,S. Patel,****6727,2026-10-01,2026-10-02,Airport Grill,Meals,132.93,ER404,Approved,True
+CC9087,D. Kim,****2381,2026-10-02,2026-10-03,United Airlines,Airfare,561.15,ER416,Approved,True
+CC9045,L. Novak,****5847,2026-10-02,2026-10-04,Zoom,Software,82.6,ER454,Approved,True
+CC9093,D. Kim,****9626,2026-10-02,2026-10-03,Hertz,Ground Transport,53.08,ER422,Approved,True
+CC9066,R. Okafor,****7132,2026-10-02,2026-10-03,Hyatt,Lodging,260.02,ER460,Approved,True
+CC9027,D. Kim,****9117,2026-10-02,2026-10-04,Hertz,Ground Transport,79.33,ER426,Approved,True
+CC9113,R. Okafor,****8305,2026-10-02,2026-10-04,Uber,Ground Transport,21.01,ER445,Approved,True
+CC9037,L. Novak,****8486,2026-10-02,2026-10-03,Chipotle,Meals,123.39,ER427,Approved,True
+CC9055,R. Okafor,****1536,2026-10-02,2026-10-04,Zoom,Software,252.6,ER429,Approved,True
+CC9050,A. Romero,****4696,2026-10-03,2026-10-05,Atlassian,Software,148.47,ER424,Approved,True
+CC9081,A. Romero,****6724,2026-10-03,2026-10-05,Chipotle,Meals,78.04,ER416,Approved,True
+CC9125,P. Chen,****6286,2026-10-03,2026-10-04,Adobe,Software,162.66,ER434,Approved,True
+CC9013,D. Kim,****9779,2026-10-03,2026-10-04,Uber,Ground Transport,69.1,ER414,Approved,True
+CC9030,A. Romero,****4920,2026-10-03,2026-10-04,Local Bistro,Meals,11.81,ER436,Approved,True
+CC9140,A. Romero,****1436,2026-10-03,2026-10-05,Hilton,Lodging,473.57,ER442,Approved,True
+CC9111,S. Patel,****8204,2026-10-03,2026-10-05,Lyft,Ground Transport,74.95,ER412,Approved,True
+CC9117,D. Kim,****5566,2026-10-04,2026-10-05,United Airlines,Airfare,428.85,ER402,Approved,True
+CC9060,P. Chen,****6304,2026-10-04,2026-10-05,Zoom,Software,19.24,ER417,Approved,True
+CC9054,D. Kim,****9850,2026-10-04,2026-10-06,Atlassian,Software,125.76,ER448,Approved,True
+CC9033,A. Romero,****7798,2026-10-04,2026-10-06,Local Bistro,Meals,122.05,ER453,Approved,True
+CC9076,J. Alvarez,****1126,2026-10-04,2026-10-06,Hertz,Ground Transport,72.31,ER428,Approved,True
+CC9090,P. Chen,****6731,2026-10-05,2026-10-07,Amazon Business,Office Supplies,100.01,ER409,Approved,True
+CC9130,D. Kim,****6658,2026-10-05,2026-10-07,Marriott,Lodging,260.03,ER449,Approved,True
+CC9097,P. Chen,****5096,2026-10-06,2026-10-07,Airport Grill,Meals,115.83,ER456,Approved,True
+CC9020,P. Chen,****1043,2026-10-06,2026-10-08,Airport Grill,Meals,39.66,ER445,Approved,True
+CC9127,P. Chen,****6531,2026-10-06,2026-10-07,Starbucks,Meals,86.12,ER406,Approved,True
+CC9115,L. Novak,****8179,2026-10-06,2026-10-07,Chipotle,Meals,133.77,ER405,Approved,True
+CC9092,A. Romero,****8967,2026-10-07,2026-10-08,Marriott,Lodging,464.37,ER409,Approved,True
+CC9082,D. Kim,****2234,2026-10-07,2026-10-08,Hertz,Ground Transport,60.18,ER432,Approved,True
+CC9121,J. Alvarez,****4292,2026-10-07,2026-10-08,Chipotle,Meals,112.77,ER451,Approved,True
+CC9042,A. Romero,****7267,2026-10-07,2026-10-08,Airport Grill,Meals,30.44,ER459,Approved,True
+CC9108,D. Kim,****8840,2026-10-07,2026-10-08,Marriott,Lodging,425.72,ER405,Approved,True
+CC9026,A. Romero,****9056,2026-10-07,2026-10-08,Amazon Business,Office Supplies,259.27,ER423,Approved,True
+CC9022,D. Kim,****3441,2026-10-08,2026-10-10,Chipotle,Meals,64.12,ER405,Approved,True
+CC9002,P. Chen,****3068,2026-10-08,2026-10-10,Staples,Office Supplies,221.41,ER437,Approved,False
+CC9058,P. Chen,****4538,2026-10-09,2026-10-10,Local Bistro,Meals,17.06,ER450,Approved,True
+CC9077,A. Romero,****6802,2026-10-10,2026-10-11,Hilton,Lodging,320.08,ER456,Approved,True
+CC9021,A. Romero,****8438,2026-10-10,2026-10-11,Hertz,Ground Transport,36.61,ER415,Approved,True
+CC9070,A. Romero,****1430,2026-10-10,2026-10-12,Starbucks,Meals,114.55,ER412,Approved,True
+CC9031,S. Patel,****2924,2026-10-10,2026-10-11,Hilton,Lodging,477.52,ER460,Submitted,False
+CC9018,L. Novak,****4697,2026-10-11,2026-10-13,Lyft,Ground Transport,23.88,ER459,Approved,True
+CC9008,S. Patel,****4995,2026-10-11,2026-10-13,Hertz,Ground Transport,77.3,ER440,Approved,True
+CC9035,A. Romero,****7730,2026-10-11,2026-10-12,Adobe,Software,177.96,ER448,Approved,True
+CC9135,R. Okafor,****1741,2026-10-12,2026-10-14,Marriott,Lodging,392.8,ER437,Approved,True
+CC9051,D. Kim,****5295,2026-10-12,2026-10-14,Hyatt,Lodging,331.7,ER424,Approved,True
+CC9047,D. Kim,****3240,2026-10-12,2026-10-13,Starbucks,Meals,97.46,ER420,Approved,True
+CC9043,A. Romero,****8622,2026-10-12,2026-10-14,Hertz,Ground Transport,49.47,ER435,Approved,True
+CC9128,S. Patel,****1496,2026-10-12,2026-10-14,Local Bistro,Meals,93.95,ER442,Approved,False
+CC9102,D. Kim,****9647,2026-10-12,2026-10-14,United Airlines,Airfare,281.36,ER450,Approved,True
+CC9003,L. Novak,****2876,2026-10-12,2026-10-13,Hilton,Lodging,405.41,ER407,Approved,True
+CC9126,R. Okafor,****3050,2026-10-12,2026-10-14,Atlassian,Software,70.95,,Not Submitted,True
+CC9007,A. Romero,****8921,2026-10-13,2026-10-15,Airport Grill,Meals,89.3,ER453,Submitted,False
+CC9032,S. Patel,****4993,2026-10-13,2026-10-15,Chipotle,Meals,62.84,ER425,Approved,True
+CC9010,P. Chen,****2402,2026-10-13,2026-10-14,Airport Grill,Meals,81.36,ER432,Approved,True
+CC9023,R. Okafor,****7594,2026-10-14,2026-10-16,Airport Grill,Meals,65.97,ER429,Approved,True
+CC9136,A. Romero,****5582,2026-10-14,2026-10-15,Marriott,Lodging,183.53,ER407,Approved,True
+CC9040,S. Patel,****2612,2026-10-14,2026-10-15,Airport Grill,Meals,139.66,ER411,Approved,True
+CC9085,A. Romero,****2479,2026-10-14,2026-10-16,Alaska Air,Airfare,216.06,ER438,Submitted,True
+CC9091,R. Okafor,****3093,2026-10-15,2026-10-16,Amazon Business,Office Supplies,154.14,ER433,Approved,True
+CC9053,J. Alvarez,****1609,2026-10-15,2026-10-17,Amazon Business,Office Supplies,175.82,ER408,Approved,True
+CC9084,R. Okafor,****9312,2026-10-15,2026-10-16,Hilton,Lodging,414.83,ER430,Approved,True
+CC9139,L. Novak,****9721,2026-10-15,2026-10-17,Local Bistro,Meals,86.37,ER431,Approved,True
+CC9064,R. Okafor,****8433,2026-10-16,2026-10-18,Starbucks,Meals,58.28,ER451,Approved,True
+CC9131,S. Patel,****5061,2026-10-16,2026-10-17,Starbucks,Meals,39.91,ER404,Approved,True
+CC9120,L. Novak,****9882,2026-10-16,2026-10-18,Amazon Business,Office Supplies,180.28,ER455,Approved,True
+CC9071,P. Chen,****7566,2026-10-17,2026-10-18,Chipotle,Meals,54.34,ER448,Approved,True
+CC9137,P. Chen,****4261,2026-10-17,2026-10-19,Starbucks,Meals,81.63,ER403,Approved,True
+CC9068,A. Romero,****7929,2026-10-17,2026-10-18,Local Bistro,Meals,96.44,ER439,Approved,True
+CC9089,D. Kim,****7333,2026-10-17,2026-10-19,Local Bistro,Meals,16.7,ER447,Approved,True
+CC9114,D. Kim,****1939,2026-10-18,2026-10-19,Hyatt,Lodging,356.75,ER441,Approved,True
+CC9044,S. Patel,****5097,2026-10-18,2026-10-20,Hilton,Lodging,476.05,ER413,Approved,False
+CC9049,A. Romero,****3695,2026-10-19,2026-10-21,Airport Grill,Meals,78.07,ER452,Submitted,True
+CC9122,P. Chen,****2412,2026-10-19,2026-10-20,Hilton,Lodging,309.57,,Not Submitted,True
+CC9048,R. Okafor,****6352,2026-10-19,2026-10-21,United Airlines,Airfare,524.21,ER413,Approved,True
+CC9056,L. Novak,****6876,2026-10-19,2026-10-20,Lyft,Ground Transport,22.45,ER418,Approved,True
+CC9116,L. Novak,****3513,2026-10-19,2026-10-21,Local Bistro,Meals,58.54,ER424,Approved,True
+CC9012,S. Patel,****6419,2026-10-19,2026-10-21,Hertz,Ground Transport,50.49,ER430,Approved,True
+CC9118,A. Romero,****5264,2026-10-20,2026-10-22,Marriott,Lodging,452.33,ER440,Approved,True
+CC9094,D. Kim,****3712,2026-10-20,2026-10-22,Starbucks,Meals,28.36,ER427,Approved,True
+CC9039,A. Romero,****8994,2026-10-20,2026-10-21,Atlassian,Software,286.93,ER405,Approved,True
+CC9036,A. Romero,****3492,2026-10-20,2026-10-22,Staples,Office Supplies,112.66,ER409,Approved,True
+CC9100,J. Alvarez,****6221,2026-10-20,2026-10-21,Hyatt,Lodging,478.25,ER442,Approved,True
+CC9004,J. Alvarez,****4978,2026-10-20,2026-10-21,Amazon Business,Office Supplies,115.2,ER455,Approved,True
+CC9080,R. Okafor,****6562,2026-10-21,2026-10-22,Lyft,Ground Transport,54.3,ER450,Approved,True
+CC9079,A. Romero,****8538,2026-10-21,2026-10-23,Uber,Ground Transport,16.56,ER428,Approved,True
+CC9129,J. Alvarez,****3589,2026-10-21,2026-10-23,Hilton,Lodging,255.18,ER431,Approved,True
+CC9105,L. Novak,****6908,2026-10-22,2026-10-23,Hertz,Ground Transport,29.05,ER435,Approved,True
+CC9132,P. Chen,****6364,2026-10-22,2026-10-24,Marriott,Lodging,239.45,ER449,Submitted,True
+CC9006,A. Romero,****8532,2026-10-23,2026-10-24,Hilton,Lodging,467.45,,Not Submitted,True
+CC9024,J. Alvarez,****2496,2026-10-23,2026-10-24,Delta,Airfare,525.23,,Not Submitted,False
+CC9019,L. Novak,****2625,2026-10-23,2026-10-24,Atlassian,Software,102.03,,Not Submitted,True
+CC9074,L. Novak,****2864,2026-10-24,2026-10-26,Hilton,Lodging,292.54,ER408,Approved,True
+CC9095,A. Romero,****8355,2026-10-24,2026-10-25,Chipotle,Meals,88.6,,Not Submitted,True
+CC9083,D. Kim,****6295,2026-10-24,2026-10-26,Chipotle,Meals,97.91,,Not Submitted,True
+CC9063,L. Novak,****3430,2026-10-24,2026-10-25,United Airlines,Airfare,214.54,ER418,Approved,True
+CC9133,J. Alvarez,****2475,2026-10-25,2026-10-27,Amazon Business,Office Supplies,139.7,ER416,Approved,True
+CC9144,D. Kim,****2290,2026-10-25,2026-10-26,Amazon Business,Office Supplies,344.99,,Not Submitted,True
+CC9078,L. Novak,****8033,2026-10-25,2026-10-27,Hyatt,Lodging,454.77,,Not Submitted,False
+CC9143,D. Kim,****2290,2026-10-25,2026-10-26,Amazon Business,Office Supplies,389.0,,Not Submitted,True
+CC9028,J. Alvarez,****7622,2026-10-25,2026-10-26,Airport Grill,Meals,19.62,ER427,Approved,True
+CC9057,D. Kim,****1349,2026-10-25,2026-10-26,Lyft,Ground Transport,21.88,ER416,Approved,False
+CC9110,P. Chen,****5687,2026-10-26,2026-10-28,Starbucks,Meals,41.44,,Not Submitted,False
+CC9011,A. Romero,****1282,2026-10-26,2026-10-27,Lyft,Ground Transport,63.44,ER415,Submitted,True
+CC9123,A. Romero,****2208,2026-10-26,2026-10-27,Local Bistro,Meals,77.39,,Not Submitted,False
+CC9096,D. Kim,****8218,2026-10-26,2026-10-28,Local Bistro,Meals,127.32,ER450,Approved,True
+CC9138,L. Novak,****3290,2026-10-26,2026-10-28,Local Bistro,Meals,76.55,ER411,Approved,True
+CC9119,J. Alvarez,****8406,2026-10-27,2026-10-28,Amazon Business,Office Supplies,68.04,ER406,Approved,True
+CC9009,P. Chen,****6813,2026-10-27,2026-10-29,Hilton,Lodging,432.3,ER418,Approved,True
+CC9075,P. Chen,****7475,2026-10-27,2026-10-28,Starbucks,Meals,77.56,ER414,Approved,True
+CC9029,P. Chen,****5375,2026-10-27,2026-10-28,Local Bistro,Meals,90.55,,Not Submitted,True
+CC9034,S. Patel,****6654,2026-10-27,2026-10-29,Airport Grill,Meals,122.21,ER430,Submitted,False
+CC9069,P. Chen,****2773,2026-10-28,2026-10-30,Delta,Airfare,279.99,,Not Submitted,True
+CC9014,A. Romero,****4180,2026-10-29,2026-10-31,Uber,Ground Transport,59.76,,Not Submitted,True
+CC9072,R. Okafor,****3578,2026-10-29,2026-10-31,Alaska Air,Airfare,281.11,ER447,Submitted,True
+CC9062,J. Alvarez,****1996,2026-10-29,2026-10-31,Airport Grill,Meals,47.82,,Not Submitted,True
+CC9112,S. Patel,****2293,2026-10-29,2026-10-31,Hyatt,Lodging,245.35,ER453,Approved,True
+CC9088,R. Okafor,****5634,2026-10-29,2026-10-31,Amazon Business,Office Supplies,145.46,ER450,Approved,True
+CC9124,A. Romero,****3981,2026-10-29,2026-10-30,Hilton,Lodging,270.24,,Not Submitted,True
+CC9098,A. Romero,****3626,2026-10-29,2026-10-31,Amazon Business,Office Supplies,224.28,ER458,Approved,True
+CC9061,S. Patel,****6931,2026-10-29,2026-10-30,Airport Grill,Meals,23.0,ER433,Approved,True
+CC9015,J. Alvarez,****5786,2026-10-30,2026-10-31,Hertz,Ground Transport,24.49,ER456,Approved,True
+CC9106,J. Alvarez,****7338,2026-10-31,2026-11-02,Amazon Business,Office Supplies,24.88,,Not Submitted,False
+CC9065,S. Patel,****4743,2026-10-31,2026-11-02,Adobe,Software,220.44,ER453,Approved,True

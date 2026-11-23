@@ -1,0 +1,108 @@
+gl_line_id,posting_date,account,document_type,document_number,reference,description,debit,credit,offset_account,source
+GL1003,2026-10-01,1010,Customer Payment,PYMT3102,RCPT-7002,Receipt - Trailhead Supply,5373.03,0.0,1200,Subledger
+GL1030,2026-10-01,1010,Customer Payment,PYMT3129,RCPT-7029,Receipt - Granite Peak Gear,6027.24,0.0,1200,Subledger
+GL1082,2026-10-01,1010,Bill Payment,BPMT4409,ACH-8809,ACH - Summit Packaging,0.0,8938.71,2000,Subledger
+GL1091,2026-10-01,1010,Bill Payment,BPMT4418,ACH-8818,ACH - Brightline Software,0.0,5222.59,2000,Subledger
+GL1097,2026-10-01,1010,Bill Payment,BPMT4424,ACH-8824,ACH - Harbor Print Co,0.0,16806.8,2000,Subledger
+GL1100,2026-10-01,1010,Bill Payment,BPMT4427,ACH-8827,ACH - Ironwood Metals,0.0,3679.74,2000,Subledger
+GL1008,2026-10-02,1010,Customer Payment,PYMT3107,RCPT-7007,Receipt - Cascade Sports,28270.34,0.0,1200,Subledger
+GL1048,2026-10-02,1010,Check,CHK10002,10002,Check - Brightline Software,0.0,7486.13,2000,Subledger
+GL1053,2026-10-02,1010,Check,CHK10007,10007,Check - Meridian Plastics,0.0,11877.75,2000,Subledger
+GL1061,2026-10-02,1010,Check,CHK10015,10015,Check - Valley Electric,0.0,1282.51,2000,Subledger
+GL1062,2026-10-02,1010,Check,CHK10016,10016,Check - Evergreen Logistics,0.0,17309.71,2000,Subledger
+GL1010,2026-10-03,1010,Customer Payment,PYMT3109,RCPT-7009,Receipt - Trailhead Supply,3649.68,0.0,1200,Subledger
+GL1054,2026-10-03,1010,Check,CHK10008,10008,Check - Coastal Freight,0.0,16704.06,2000,Subledger
+GL1063,2026-10-03,1010,Check,CHK10017,10017,Check - Clearview Staffing,0.0,10872.62,2000,Subledger
+GL1071,2026-10-03,1010,Check,CHK10025,10025,Check - Meridian Plastics,0.0,9862.37,2000,Subledger
+GL1050,2026-10-05,1010,Check,CHK10004,10004,Check - Ironwood Metals,0.0,7825.12,2000,Subledger
+GL1059,2026-10-05,1010,Check,CHK10013,10013,Check - Coastal Freight,0.0,3742.2,2000,Subledger
+GL1072,2026-10-05,1010,Check,CHK10026,10026,Check - Evergreen Logistics,0.0,16825.37,2000,Subledger
+GL1029,2026-10-06,1010,Customer Payment,PYMT3128,RCPT-7028,Receipt - Alpine Retail,21417.65,0.0,1200,Subledger
+GL1083,2026-10-06,1010,Bill Payment,BPMT4410,ACH-8810,ACH - Meridian Plastics,0.0,18763.66,2000,Subledger
+GL1037,2026-10-07,1010,Customer Payment,PYMT3200,LBX-1-1,Lockbox receipt - Alpine Retail,5625.21,0.0,1200,Subledger
+GL1038,2026-10-07,1010,Customer Payment,PYMT3201,LBX-1-2,Lockbox receipt - Trailhead Supply,858.96,0.0,1200,Subledger
+GL1039,2026-10-07,1010,Customer Payment,PYMT3202,LBX-1-3,Lockbox receipt - Cascade Sports,6604.3,0.0,1200,Subledger
+GL1088,2026-10-07,1010,Bill Payment,BPMT4415,ACH-8815,ACH - Clearview Staffing,0.0,17337.81,2000,Subledger
+GL1095,2026-10-07,1010,Bill Payment,BPMT4422,ACH-8822,ACH - Valley Electric,0.0,20579.74,2000,Subledger
+GL1021,2026-10-08,1010,Customer Payment,PYMT3120,RCPT-7020,Receipt - Redwood Outfitters,37903.73,0.0,1200,Subledger
+GL1031,2026-10-08,1010,Customer Payment,PYMT3130,RCPT-7030,Receipt - Cascade Sports,33608.35,0.0,1200,Subledger
+GL1036,2026-10-08,1010,Customer Payment,PYMT3135,RCPT-7035,Receipt - Granite Peak Gear,10089.1,0.0,1200,Subledger
+GL1049,2026-10-08,1010,Check,CHK10003,10003,Check - Meridian Plastics,0.0,3771.99,2000,Subledger
+GL1051,2026-10-08,1010,Check,CHK10005,10005,Check - Evergreen Logistics,0.0,15790.95,2000,Subledger
+GL1068,2026-10-08,1010,Check,CHK10022,10022,Check - Summit Packaging,0.0,5074.82,2000,Subledger
+GL1090,2026-10-08,1010,Bill Payment,BPMT4417,ACH-8817,ACH - Summit Packaging,0.0,21737.0,2000,Subledger
+GL1005,2026-10-09,1010,Customer Payment,PYMT3104,RCPT-7004,Receipt - Alpine Retail,31139.5,0.0,1200,Subledger
+GL1080,2026-10-09,1010,Bill Payment,BPMT4407,ACH-8807,ACH - Pacific Fabrics,0.0,22718.61,2000,Subledger
+GL1093,2026-10-09,1010,Bill Payment,BPMT4420,ACH-8820,ACH - Northstar Insurance,0.0,4736.67,2000,Subledger
+GL1098,2026-10-09,1010,Bill Payment,BPMT4425,ACH-8825,ACH - Ironwood Metals,0.0,21730.91,2000,Subledger
+GL1009,2026-10-10,1010,Customer Payment,PYMT3108,RCPT-7008,Receipt - Granite Peak Gear,31858.57,0.0,1200,Subledger
+GL1026,2026-10-10,1010,Customer Payment,PYMT3125,RCPT-7025,Receipt - Sierra Goods,17651.55,0.0,1200,Subledger
+GL1096,2026-10-10,1010,Bill Payment,BPMT4423,ACH-8823,ACH - Coastal Freight,0.0,20674.93,2000,Subledger
+GL1006,2026-10-11,1010,Customer Payment,PYMT3105,RCPT-7005,Receipt - Trailhead Supply,12003.37,0.0,1200,Subledger
+GL1018,2026-10-11,1010,Customer Payment,PYMT3117,RCPT-7017,Receipt - Sierra Goods,9654.56,0.0,1200,Subledger
+GL1073,2026-10-12,1010,Bill Payment,BPMT4400,ACH-8800,ACH - Valley Electric,0.0,7768.2,2000,Subledger
+GL1089,2026-10-12,1010,Bill Payment,BPMT4416,ACH-8816,ACH - Harbor Print Co,0.0,19700.8,2000,Subledger
+GL1105,2026-10-12,1010,Customer Payment,PYMT3301,RCPT-7301,Receipt - Granite Peak Gear,15320.0,0.0,1200,Subledger
+GL1007,2026-10-13,1010,Customer Payment,PYMT3106,RCPT-7006,Receipt - Granite Peak Gear,5481.79,0.0,1200,Subledger
+GL1017,2026-10-13,1010,Customer Payment,PYMT3116,RCPT-7016,Receipt - Trailhead Supply,11638.67,0.0,1200,Subledger
+GL1057,2026-10-13,1010,Check,CHK10011,10011,Check - Valley Electric,0.0,5067.57,2000,Subledger
+GL1064,2026-10-13,1010,Check,CHK10018,10018,Check - Oakridge Facilities,0.0,2510.0,2000,Subledger
+GL1094,2026-10-13,1010,Bill Payment,BPMT4421,ACH-8821,ACH - Valley Electric,0.0,21919.22,2000,Subledger
+GL1055,2026-10-14,1010,Check,CHK10009,10009,Check - Coastal Freight,0.0,8947.28,2000,Subledger
+GL1058,2026-10-14,1010,Check,CHK10012,10012,Check - Northstar Insurance,0.0,12660.01,2000,Subledger
+GL1066,2026-10-14,1010,Check,CHK10020,10020,Check - Oakridge Facilities,0.0,11969.77,2000,Subledger
+GL1086,2026-10-14,1010,Bill Payment,BPMT4413,ACH-8813,ACH - Ironwood Metals,0.0,3971.44,2000,Subledger
+GL1101,2026-10-14,1010,Journal,JE-PR-14,PR-14,Payroll funding,0.0,147225.31,2300,Payroll
+GL1024,2026-10-15,1010,Customer Payment,PYMT3123,RCPT-7023,Receipt - Alpine Retail,21048.12,0.0,1200,Subledger
+GL1040,2026-10-15,1010,Customer Payment,PYMT3210,LBX-2-1,Lockbox receipt - Sierra Goods,7849.01,0.0,1200,Subledger
+GL1041,2026-10-15,1010,Customer Payment,PYMT3211,LBX-2-2,Lockbox receipt - Trailhead Supply,1381.03,0.0,1200,Subledger
+GL1042,2026-10-15,1010,Customer Payment,PYMT3212,LBX-2-3,Lockbox receipt - Redwood Outfitters,2751.64,0.0,1200,Subledger
+GL1047,2026-10-15,1010,Check,CHK10001,10001,Check - Pacific Fabrics,0.0,15603.53,2000,Subledger
+GL1069,2026-10-15,1010,Check,CHK10023,10023,Check - Evergreen Logistics,0.0,5964.72,2000,Subledger
+GL1070,2026-10-15,1010,Check,CHK10024,10024,Check - Oakridge Facilities,0.0,11332.4,2000,Subledger
+GL1106,2026-10-17,1010,Journal,JE-UT-1017,UTIL-1017,Valley Electric - Oct utilities,0.0,6412.88,6600,Manual JE
+GL1107,2026-10-17,1010,Journal,JE-UT-1017A,UTIL-1017,Valley Electric - Oct utilities,0.0,6412.88,6600,Manual JE
+GL1004,2026-10-18,1010,Customer Payment,PYMT3103,RCPT-7003,Receipt - Northwind Cycles,9158.16,0.0,1200,Subledger
+GL1014,2026-10-18,1010,Customer Payment,PYMT3113,RCPT-7013,Receipt - Redwood Outfitters,28248.56,0.0,1200,Subledger
+GL1020,2026-10-18,1010,Customer Payment,PYMT3119,RCPT-7019,Receipt - Northwind Cycles,21403.18,0.0,1200,Subledger
+GL1033,2026-10-18,1010,Customer Payment,PYMT3132,RCPT-7032,Receipt - Northwind Cycles,7944.57,0.0,1200,Subledger
+GL1084,2026-10-18,1010,Bill Payment,BPMT4411,ACH-8811,ACH - Evergreen Logistics,0.0,1133.04,2000,Subledger
+GL1085,2026-10-18,1010,Bill Payment,BPMT4412,ACH-8812,ACH - Brightline Software,0.0,1768.28,2000,Subledger
+GL1060,2026-10-19,1010,Check,CHK10014,10014,Check - Pacific Fabrics,0.0,13348.97,2000,Subledger
+GL1065,2026-10-19,1010,Check,CHK10019,10019,Check - Oakridge Facilities,0.0,10863.54,2000,Subledger
+GL1074,2026-10-20,1010,Bill Payment,BPMT4401,ACH-8801,ACH - Clearview Staffing,0.0,24610.86,2000,Subledger
+GL1078,2026-10-20,1010,Bill Payment,BPMT4405,ACH-8805,ACH - Brightline Software,0.0,5976.17,2000,Subledger
+GL1001,2026-10-21,1010,Customer Payment,PYMT3100,RCPT-7000,Receipt - Bluewater Marine,6007.92,0.0,1200,Subledger
+GL1012,2026-10-21,1010,Customer Payment,PYMT3111,RCPT-7011,Receipt - Redwood Outfitters,32027.98,0.0,1200,Subledger
+GL1015,2026-10-21,1010,Customer Payment,PYMT3114,RCPT-7014,Receipt - Trailhead Supply,26773.83,0.0,1200,Subledger
+GL1019,2026-10-21,1010,Customer Payment,PYMT3118,RCPT-7018,Receipt - Bluewater Marine,18518.67,0.0,1200,Subledger
+GL1081,2026-10-21,1010,Bill Payment,BPMT4408,ACH-8808,ACH - Ironwood Metals,0.0,11108.18,2000,Subledger
+GL1099,2026-10-21,1010,Bill Payment,BPMT4426,ACH-8826,ACH - Clearview Staffing,0.0,13176.68,2000,Subledger
+GL1013,2026-10-22,1010,Customer Payment,PYMT3112,RCPT-7012,Receipt - Cascade Sports,11611.2,0.0,1200,Subledger
+GL1025,2026-10-22,1010,Customer Payment,PYMT3124,RCPT-7024,Receipt - Bluewater Marine,33852.38,0.0,1200,Subledger
+GL1035,2026-10-22,1010,Customer Payment,PYMT3134,RCPT-7034,Receipt - Sierra Goods,25395.61,0.0,1200,Subledger
+GL1043,2026-10-22,1010,Customer Payment,PYMT3220,LBX-3-1,Lockbox receipt - Northwind Cycles,2792.58,0.0,1200,Subledger
+GL1044,2026-10-22,1010,Customer Payment,PYMT3221,LBX-3-2,Lockbox receipt - Granite Peak Gear,4678.38,0.0,1200,Subledger
+GL1045,2026-10-22,1010,Customer Payment,PYMT3222,LBX-3-3,Lockbox receipt - Northwind Cycles,4137.89,0.0,1200,Subledger
+GL1046,2026-10-22,1010,Customer Payment,PYMT3223,LBX-3-4,Lockbox receipt - Northwind Cycles,1573.47,0.0,1200,Subledger
+GL1075,2026-10-22,1010,Bill Payment,BPMT4402,ACH-8802,ACH - Ironwood Metals,0.0,20592.21,2000,Subledger
+GL1079,2026-10-22,1010,Bill Payment,BPMT4406,ACH-8806,ACH - Ironwood Metals,0.0,16185.13,2000,Subledger
+GL1002,2026-10-24,1010,Customer Payment,PYMT3101,RCPT-7001,Receipt - Cascade Sports,5689.83,0.0,1200,Subledger
+GL1027,2026-10-24,1010,Customer Payment,PYMT3126,RCPT-7026,Receipt - Redwood Outfitters,11482.01,0.0,1200,Subledger
+GL1077,2026-10-24,1010,Bill Payment,BPMT4404,ACH-8804,ACH - Ironwood Metals,0.0,14232.69,2000,Subledger
+GL1016,2026-10-25,1010,Customer Payment,PYMT3115,RCPT-7015,Receipt - Trailhead Supply,29936.0,0.0,1200,Subledger
+GL1022,2026-10-25,1010,Customer Payment,PYMT3121,RCPT-7021,Receipt - Cascade Sports,3696.19,0.0,1200,Subledger
+GL1034,2026-10-25,1010,Customer Payment,PYMT3133,RCPT-7033,Receipt - Trailhead Supply,28277.52,0.0,1200,Subledger
+GL1023,2026-10-26,1010,Customer Payment,PYMT3122,RCPT-7022,Receipt - Cascade Sports,26497.32,0.0,1200,Subledger
+GL1052,2026-10-26,1010,Check,CHK10006,10006,Check - Meridian Plastics,0.0,15559.74,2000,Subledger
+GL1092,2026-10-26,1010,Bill Payment,BPMT4419,ACH-8819,ACH - Northstar Insurance,0.0,17044.76,2000,Subledger
+GL1032,2026-10-27,1010,Customer Payment,PYMT3131,RCPT-7031,Receipt - Redwood Outfitters,4491.65,0.0,1200,Subledger
+GL1011,2026-10-28,1010,Customer Payment,PYMT3110,RCPT-7010,Receipt - Cascade Sports,10380.47,0.0,1200,Subledger
+GL1028,2026-10-28,1010,Customer Payment,PYMT3127,RCPT-7027,Receipt - Trailhead Supply,24510.81,0.0,1200,Subledger
+GL1056,2026-10-29,1010,Check,CHK10010,10010,Check - Harbor Print Co,0.0,1431.98,2000,Subledger
+GL1076,2026-10-29,1010,Bill Payment,BPMT4403,ACH-8803,ACH - Evergreen Logistics,0.0,4136.42,2000,Subledger
+GL1087,2026-10-29,1010,Bill Payment,BPMT4414,ACH-8814,ACH - Pacific Fabrics,0.0,23387.42,2000,Subledger
+GL1102,2026-10-29,1010,Journal,JE-PR-29,PR-29,Payroll funding,0.0,150851.96,2300,Payroll
+GL1067,2026-10-30,1010,Check,CHK10021,10021,Check - Clearview Staffing,0.0,4989.48,2000,Subledger
+GL1103,2026-10-31,1010,Customer Payment,PYMT390,RCPT-790,Receipt - Alpine Retail,5300.83,0.0,1200,Subledger
+GL1104,2026-10-31,1010,Customer Payment,PYMT391,RCPT-791,Receipt - Northwind Cycles,8148.25,0.0,1200,Subledger

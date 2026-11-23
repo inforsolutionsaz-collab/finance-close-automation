@@ -1,0 +1,5 @@
+posting_date,source,document_number,memo,debit,credit,account
+2026-10-01,Opening Balance,OB-2026-10,Opening balance,0.0,412845.32,2000
+2026-10-31,AP Bill,SUM-BILLS,Vendor bills posted (summarized),0.0,280392.85,2000
+2026-10-31,AP Payment,SUM-PMTS,Bill payments applied (summarized),211904.12,0.0,2000
+2026-10-28,Manual JE,JE-1188,Accrue Q3 audit fees - Lindgren CPAs (fictional),0.0,12500.0,2000

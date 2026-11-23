@@ -1,0 +1,5 @@
+gl_line_id,posting_date,account,document_type,document_number,reference,description,debit,credit,offset_account,source,amount,classification,action,days_outstanding
+GL1107,2026-10-17,1010,Journal,JE-UT-1017A,UTIL-1017,Valley Electric - Oct utilities,0.0,6412.88,6600,Manual JE,-6412.88,Book error - duplicate posting,Reverse duplicate entry,14
+GL1067,2026-10-30,1010,Check,CHK10021,10021,Check - Clearview Staffing,0.0,4989.48,2000,Subledger,-4989.48,Outstanding check,Timing - confirm clears next period,1
+GL1103,2026-10-31,1010,Customer Payment,PYMT390,RCPT-790,Receipt - Alpine Retail,5300.83,0.0,1200,Subledger,5300.83,Deposit in transit,Timing - confirm credit next period,0
+GL1104,2026-10-31,1010,Customer Payment,PYMT391,RCPT-791,Receipt - Northwind Cycles,8148.25,0.0,1200,Subledger,8148.25,Deposit in transit,Timing - confirm credit next period,0

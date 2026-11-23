@@ -1,0 +1,133 @@
+{
+  "run_id": "CLOSE-202610-8EF6DE",
+  "run_at": "2026-11-22 17:17:59",
+  "company": "Summit Outdoor Co. (fictional)",
+  "period_end": "2026-10-31",
+  "bank": {
+    "opening_balance_book": 1250000.0,
+    "opening_balance_bank": 1250000.0,
+    "balance_per_bank": 1013325.52,
+    "deposits_in_transit": 13449.08,
+    "outstanding_checks": -4989.48,
+    "adjusted_bank_balance": 1021785.12,
+    "balance_per_books": 1020524.37,
+    "bank_fees_not_recorded": -95.0,
+    "interest_not_recorded": 18.37,
+    "nsf_returned_items": -3275.5,
+    "book_error_amount_variances": -1800.0,
+    "book_error_duplicates_reversed": 6412.88,
+    "adjusted_book_balance": 1021785.12,
+    "unreconciled_difference": 0.0,
+    "unexplained_items_amount": 0.0,
+    "gl_lines": 107,
+    "bank_lines": 101,
+    "bank_lines_auto_matched": 96,
+    "gl_lines_auto_matched": 103,
+    "auto_match_rate_bank": 0.9505,
+    "status": "RECONCILED"
+  },
+  "ap": {
+    "gl_ap_balance": 493834.05,
+    "subledger_open_total": 481334.05,
+    "difference": 12500.0,
+    "explained_by_manual_jes": 12500.0,
+    "unexplained_difference": 0.0,
+    "open_bills": 41,
+    "past_due_amount": 351440.1,
+    "duplicate_bills_flagged": 1,
+    "duplicate_exposure": 14771.58,
+    "status": "TIED OUT"
+  },
+  "card": {
+    "card_txns_in_period": 144,
+    "card_spend_in_period": 25101.12,
+    "already_expensed_via_approved_reports": 18648.49,
+    "txns_accrued": 31,
+    "accrual_total": 6452.63,
+    "policy_flags": 22,
+    "employees_with_flags": 7
+  },
+  "journal_entries": {
+    "count": 7,
+    "lines": 22,
+    "total_debits": 30554.38
+  },
+  "controls": [
+    {
+      "control": "C1 Input completeness & schema",
+      "result": "PASS",
+      "detail": "6 extracts loaded; required columns present"
+    },
+    {
+      "control": "C2 Prior period reconciled & rolled forward",
+      "result": "PASS",
+      "detail": "Opening book 1,250,000.00 / bank 1,250,000.00; prior status Reconciled"
+    },
+    {
+      "control": "C3 Cash reconciliation difference = 0",
+      "result": "PASS",
+      "detail": "Adjusted bank 1,021,785.12 vs adjusted book 1,021,785.12"
+    },
+    {
+      "control": "C4 No unexplained reconciling items",
+      "result": "PASS",
+      "detail": "Unexplained amount 0.00"
+    },
+    {
+      "control": "C5 AP subledger ties to GL control",
+      "result": "PASS",
+      "detail": "Difference 12,500.00; explained 12,500.00"
+    },
+    {
+      "control": "C6 Duplicate vendor bill check",
+      "result": "REVIEW",
+      "detail": "1 suspect bill(s), 14,771.58 exposure - payment hold recommended"
+    },
+    {
+      "control": "C7 Card categories mapped to GL",
+      "result": "PASS",
+      "detail": "144 transactions mapped"
+    },
+    {
+      "control": "C8 Card policy compliance",
+      "result": "REVIEW",
+      "detail": "22 flag(s) across 7 employee(s)"
+    },
+    {
+      "control": "C9 Journal entries balanced & accounts valid",
+      "result": "PASS",
+      "detail": "7 entries, 22 lines, DR 30,554.38 = CR 30,554.38"
+    },
+    {
+      "control": "C10 Segregation of duties",
+      "result": "REVIEW",
+      "detail": "JEs staged 'Pending Approval'; human reviewer must approve before posting"
+    }
+  ],
+  "inputs": {
+    "gl_cash_detail.csv": {
+      "rows": 107,
+      "sha256": "1e2592b1431a72c884652a7eb6e453b3a3b7c951f365cb711187a4db0b02c520"
+    },
+    "bank_statement.csv": {
+      "rows": 101,
+      "sha256": "b7772961ced4467a4e1a83902452ae061d8edee30c5a58f9db764f664a9d9ca3"
+    },
+    "ap_open_bills.csv": {
+      "rows": 41,
+      "sha256": "ce56fc7aea6d2096332d1ce20c045df18f649320de75ab9eecaa5d5b9bd9ca42"
+    },
+    "gl_ap_control_detail.csv": {
+      "rows": 4,
+      "sha256": "6b82ada6d2b2e4e90bd3a1f8d8e6b33151f082b5b833ffd3fddf3f2d6499255b"
+    },
+    "concur_card_transactions.csv": {
+      "rows": 144,
+      "sha256": "83fc9457d74140024f8f1bca643626b51d18c5067e21f150346b35693f00d9ce"
+    },
+    "prior_period_balances.csv": {
+      "rows": 1,
+      "sha256": "b5bb4889719dc63ee1f6c7717a4e638fa4b5c1f9937aa5c2eca5c0ae79c29d6e"
+    }
+  }
+}
